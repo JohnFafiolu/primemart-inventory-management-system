@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Unit,Opening_Stock,Reorder_Level,Unit_Cost,Preferred_Supplier
+PRD001,Rice 5kg,Groceries,Bag,80,25,9200,Golden Farms
+PRD002,Beans 2kg,Groceries,Pack,65,20,4300,Harvest Foods
+PRD003,Cooking Oil 1L,Groceries,Bottle,90,30,2800,PureLife Supplies
+PRD004,Sugar 1kg,Groceries,Pack,70,25,1800,Golden Farms
+PRD005,  Pasta 500g ,Groceries,Pack,100,35,950,Harvest Foods
+PRD006,Tomato Paste 400g,Groceries,Can,120,40,700,FreshMart Distributors
+PRD007,Milk Powder 400g,Groceries,Tin,55,20,3600,DairyWorld
+PRD008,Coffee 200g,Groceries,Jar,45,15,5200,DairyWorld
+PRD009,Soft Drink 50cl,Beverages,Bottle,150,50,450,Fizz Beverages
+PRD010,Bottled Water 75cl,Beverages,Bottle,200,60,250,AquaPure
+PRD011,Fruit Juice 1L,beverages ,Carton,75,25,1400,Fizz Beverages
+PRD012,Energy Drink 33cl,Beverages,Can,90,30,850,Fizz Beverages
+PRD013,Laundry Detergent 1kg,Household,Pack,65,20,2400,CleanHome Ltd
+PRD014,Floor Cleaner 1L,Household,Bottle,50,18,2100,CleanHome Ltd
+PRD015,Dishwashing Liquid 750ml,Household,Bottle,70,25,1600,CleanHome Ltd
+PRD016,Tissue Paper 10-pack,Household,Pack,85,30,1900,SoftTouch
+PRD017,Bathing Soap,Personal Care,Bar,110,40,650,CarePlus
+PRD018,Toothpaste 150g,Personal Care,Tube,80,30,1250,CarePlus
+PRD019,Body Lotion 500ml,Personal Care,Bottle,60,20,3200,Glow Essentials
+PRD020,Shampoo 400ml,Personal Care,Bottle,55,20,2800,Glow Essentials
+PRD021,Toilet Cleaner 500ml,Household,Bottle,45,15,1350,CleanHome Ltd
+PRD022,Cereal 500g,Groceries,Pack,70,25,2200, 
+PRD023,Chocolate Drink 500g,Beverages,Tin,50,18,3100,DairyWorld
+PRD024,Hand Wash 500ml,Personal Care,Bottle,75,25,1750,CarePlus
+PRD025,Garbage Bags 30-pack,Household,Pack,90,30,1100,SoftTouch
