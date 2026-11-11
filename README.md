@@ -152,6 +152,19 @@ The dashboard allows users to filter and explore inventory information dynamical
 ## Dashboard Preview
 
 ![PrimeMart Inventory Management Dashboard](inventory_dashboard.png)
+## Workbook Previews
+
+### Product Master – Product Information
+
+![Product Master Details](images/product_master_details.png)
+
+### Product Master – Inventory Calculations
+
+![Product Master Inventory Calculations](images/product_master_inventory_calculations.png)
+
+### Stock Movements
+
+![Stock Movements Preview](images/stock_movements_preview.png)
 ## Key Findings
 
 The analysis produced the following results:
