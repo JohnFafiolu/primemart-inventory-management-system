@@ -149,7 +149,9 @@ Interactive controls include:
 - Date Timeline.
 
 The dashboard allows users to filter and explore inventory information dynamically.
+## Dashboard Preview
 
+![PrimeMart Inventory Management Dashboard](inventory_dashboard.png)
 ## Key Findings
 
 The analysis produced the following results:
